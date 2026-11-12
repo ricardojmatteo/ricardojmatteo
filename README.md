@@ -80,6 +80,7 @@ Platform that measures how productively people use AI at work, turning it into m
 
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 **Skills:** Generative AI & AI agents · Statistical analysis · Data visualization & dashboards · KPIs · Scenario & financial impact analysis · Business Intelligence · Agile
 
 ---
