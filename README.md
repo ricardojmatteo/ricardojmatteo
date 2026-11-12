@@ -100,4 +100,4 @@ Platform that measures how productively people use AI at work, turning it into m
 
 ---
 
-<p align="center"><i>Let's connect and talk about data! 📬</i></p>
+<p align="center"><i>Let's connect! 📬</i></p>
